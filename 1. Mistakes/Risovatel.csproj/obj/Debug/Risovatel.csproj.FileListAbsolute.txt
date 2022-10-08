@@ -1,0 +1,9 @@
+C:\Users\Полина\Downloads\Risovatel.csproj\bin\Debug\RefactorMe.exe.config
+C:\Users\Полина\Downloads\Risovatel.csproj\bin\Debug\RefactorMe.exe
+C:\Users\Полина\Downloads\Risovatel.csproj\bin\Debug\RefactorMe.pdb
+C:\Users\Полина\Downloads\Risovatel.csproj\bin\Debug\nunit.framework.dll
+C:\Users\Полина\Downloads\Risovatel.csproj\obj\Debug\Risovatel.csprojResolveAssemblyReference.cache
+C:\Users\Полина\Downloads\Risovatel.csproj\obj\Debug\RefactorMe.Properties.Resources.resources
+C:\Users\Полина\Downloads\Risovatel.csproj\obj\Debug\Risovatel.csproj.GenerateResource.Cache
+C:\Users\Полина\Downloads\Risovatel.csproj\obj\Debug\RefactorMe.exe
+C:\Users\Полина\Downloads\Risovatel.csproj\obj\Debug\RefactorMe.pdb

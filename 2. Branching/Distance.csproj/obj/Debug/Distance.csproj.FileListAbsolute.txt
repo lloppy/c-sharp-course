@@ -1,0 +1,7 @@
+C:\Users\Полина\Downloads\Distance.csproj\obj\Debug\Distance.csprojResolveAssemblyReference.cache
+C:\Users\Полина\Downloads\Distance.csproj\bin\Debug\Distance.exe.config
+C:\Users\Полина\Downloads\Distance.csproj\bin\Debug\Distance.exe
+C:\Users\Полина\Downloads\Distance.csproj\bin\Debug\Distance.pdb
+C:\Users\Полина\Downloads\Distance.csproj\bin\Debug\TestingRoom.dll
+C:\Users\Полина\Downloads\Distance.csproj\obj\Debug\Distance.exe
+C:\Users\Полина\Downloads\Distance.csproj\obj\Debug\Distance.pdb
