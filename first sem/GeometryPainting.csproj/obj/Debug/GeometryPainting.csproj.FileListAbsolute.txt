@@ -1,0 +1,5 @@
+C:\Users\Полина\Downloads\GeometryPainting.csproj\obj\Debug\GeometryPainting.csproj.AssemblyReference.cache
+C:\Users\Полина\Downloads\GeometryPainting.csproj\obj\Debug\GeometryPainting.csproj.SuggestedBindingRedirects.cache
+C:\Users\Полина\Downloads\GeometryPainting.csproj\obj\Debug\GeometryPainting.Properties.Resources.resources
+C:\Users\Полина\Downloads\GeometryPainting.csproj\obj\Debug\GeometryPainting.csproj.GenerateResource.cache
+C:\Users\Полина\Downloads\GeometryPainting.csproj\obj\Debug\GeometryPainting.csproj.CoreCompileInputs.cache

@@ -13,3 +13,6 @@ C:\Users\Полина\Downloads\AngryBirds.csproj\bin\Debug\normnfkd.nlp
 C:\Users\Полина\Downloads\AngryBirds.csproj\obj\Debug\AngryBirds.csprojResolveAssemblyReference.cache
 C:\Users\Полина\Downloads\AngryBirds.csproj\obj\Debug\AngryBirds.exe
 C:\Users\Полина\Downloads\AngryBirds.csproj\obj\Debug\AngryBirds.pdb
+C:\c#_course\1. Mistakes\AngryBirds.csproj\obj\Debug\AngryBirds.csprojResolveAssemblyReference.cache
+C:\c#_course\1. Mistakes\AngryBirds.csproj\obj\Debug\AngryBirds.exe
+C:\c#_course\1. Mistakes\AngryBirds.csproj\obj\Debug\AngryBirds.pdb

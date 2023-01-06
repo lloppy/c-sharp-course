@@ -1,0 +1,31 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Hierarchy/Build/BuildTool/CustomBuildToolPath/@EntryValue">C:\JetBrains Rider 2022.2.3\tools\MSBuild\Current\Bin\MSBuild.exe</s:String>
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=18410c90_002D21b3_002D47d1_002D8bf9_002D5047719b2fe6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="RunTests #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::46300163-1BDE-4535-B5A1-60A599CE0A25::.NETFramework,Version=v4.7.2::TableParser.FieldParserTaskTests.RunTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::46300163-1BDE-4535-B5A1-60A599CE0A25::.NETFramework,Version=v4.7.2::TableParser.QuotedFieldTaskTests.Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::46300163-1BDE-4535-B5A1-60A599CE0A25::.NETFramework,Version=v4.7.2::TableParser.QuotedFieldTaskTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=54d2900c_002Db501_002D4716_002D86ec_002De4bdb6df6cd3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="RunTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::46300163-1BDE-4535-B5A1-60A599CE0A25::.NETFramework,Version=v4.7.2::TableParser.FieldParserTaskTests.RunTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=869c661c_002Db165_002D4c87_002D8f0b_002D6802d1f6e1de/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="RunTests #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::46300163-1BDE-4535-B5A1-60A599CE0A25::.NETFramework,Version=v4.7.2::TableParser.FieldParserTaskTests.RunTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c1434dfb_002D0808_002D4868_002D892a_002D59a37953f057/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="RunTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::46300163-1BDE-4535-B5A1-60A599CE0A25::.NETFramework,Version=v4.7.2::TableParser.FieldParserTaskTests.RunTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c948e836_002D54b5_002D4522_002Dbd96_002Df9be6f843e78/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="QuotedFieldTaskTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::46300163-1BDE-4535-B5A1-60A599CE0A25::.NETFramework,Version=v4.7.2::TableParser.QuotedFieldTaskTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::46300163-1BDE-4535-B5A1-60A599CE0A25::.NETFramework,Version=v4.7.2::TableParser.FieldParserTaskTests.RunTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

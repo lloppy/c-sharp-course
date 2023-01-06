@@ -1,0 +1,16 @@
+C:\Users\Полина\Downloads\autocomplete.csproj\bin\Debug\dic\adjectives.txt
+C:\Users\Полина\Downloads\autocomplete.csproj\bin\Debug\dic\nouns.txt
+C:\Users\Полина\Downloads\autocomplete.csproj\bin\Debug\dic\verbs.txt
+C:\Users\Полина\Downloads\autocomplete.csproj\bin\Debug\Autocomplete.exe.config
+C:\Users\Полина\Downloads\autocomplete.csproj\bin\Debug\Autocomplete.exe
+C:\Users\Полина\Downloads\autocomplete.csproj\bin\Debug\Autocomplete.pdb
+C:\Users\Полина\Downloads\autocomplete.csproj\bin\Debug\nunit.framework.dll
+C:\Users\Полина\Downloads\autocomplete.csproj\obj\Debug\autocomplete.csproj.AssemblyReference.cache
+C:\Users\Полина\Downloads\autocomplete.csproj\obj\Debug\autocomplete.csproj.SuggestedBindingRedirects.cache
+C:\Users\Полина\Downloads\autocomplete.csproj\obj\Debug\Autocomplete.AutocompleteForm.resources
+C:\Users\Полина\Downloads\autocomplete.csproj\obj\Debug\Autocomplete.Properties.Resources.resources
+C:\Users\Полина\Downloads\autocomplete.csproj\obj\Debug\autocomplete.csproj.GenerateResource.cache
+C:\Users\Полина\Downloads\autocomplete.csproj\obj\Debug\autocomplete.csproj.CoreCompileInputs.cache
+C:\Users\Полина\Downloads\autocomplete.csproj\obj\Debug\autocomplete.csproj.CopyComplete
+C:\Users\Полина\Downloads\autocomplete.csproj\obj\Debug\Autocomplete.exe
+C:\Users\Полина\Downloads\autocomplete.csproj\obj\Debug\Autocomplete.pdb
